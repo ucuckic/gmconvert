@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g2mconvert", "g2mconvert\g2mconvert.csproj", "{662B5ED5-2D59-4684-A232-0AF57E573314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662B5ED5-2D59-4684-A232-0AF57E573314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662B5ED5-2D59-4684-A232-0AF57E573314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662B5ED5-2D59-4684-A232-0AF57E573314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662B5ED5-2D59-4684-A232-0AF57E573314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B28F4C10-4AED-4DB1-8A3F-A98BD087A268}
+	EndGlobalSection
+EndGlobal
